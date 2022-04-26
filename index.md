@@ -1,16 +1,16 @@
 ---
 layout: template1
-title: Correctness 2021
+title: Correctness 2022
 comments: false
 ---
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>Correctness 2021: Fifth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 19, 2021 (half day, 8:30am - 12pm CST) </h4></center>
-<center><h4> America’s Center Convention Complex </h4></center>
-<center><h4> St. Louis, MO, USA </h4></center>
-<center><h5> Held in conjunction with SC21: <a href="https://sc21.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h2>Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November xx, 2022 (half day, 8:30am - 12pm CST) </h4></center>
+<center><h4> Kay Bailey Hutchison Convention Center Dallas </h4></center>
+<center><h4> Dallas, Texas, USA </h4></center>
+<center><h5> Held in conjunction with SC22: <a href="https://sc22.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
@@ -64,27 +64,32 @@ Topics of interest include, but are not limited to:
 
 Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content, including everything. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 
-Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.
+<!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
+Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
 
 Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
 
 #### SC Reproducibility Initiative
 
-We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc21.supercomputing.org/submit/reproducibility-initiative/).
+We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc22.supercomputing.org/submit/reproducibility-initiative/).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
 
-The proceedings will be archived in IEEE Xplore via [TCHPC](https://tc.computer.org/tchpc/).
+The proceedings will be archived in IEEE Xplore.
 
 ---
 ### <a class="anchor" name="dates"> Important Dates </a>
 
-<font color="FF0404">Due to several requests, we have extended the submission deadline to Aug/16/21.</font>
-
-
+<!--
 * Paper submissions due: ~~August 9, 2021~~ **Extended:** August 16, 2021
 * Notification of acceptance: September 20, 2021
+* E-copyright registration completed by authors: TBD
+* Camera-ready papers due: TBD
+-->
+
+* Paper submissions due: TBD (Aug, 2022)
+* Notification of acceptance: TBD (Sep, 2022)
 * E-copyright registration completed by authors: TBD
 * Camera-ready papers due: TBD
 
@@ -94,7 +99,7 @@ All time zones are AOE.
 ### <a class="anchor" name="date">Workshop Date</a>
 
 - Half-day Workshop
-- November 19, 2021, 8:30am - 12pm CST
+- November xx, 2022, 8:30am - 12pm CST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -105,6 +110,7 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
+<!--
 [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
 [Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
 [John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
@@ -121,40 +127,18 @@ All time zones are AOE.
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
 [Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
 [Tristan Vanderbruggen](https://people.llnl.gov/vanderbrugge1), Lawrence Livermore National Laboratory, USA <br />
+-->
+TBD
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-- America’s Center Convention Complex, St. Louis, MO, USA
+- Kay Bailey Hutchison Convention Center Dallas, Dallas, Texas, USA
 - Room: TBD
 
 ---
 ### <a class="anchor" name="program">Program</a>
-<br />
-
-###### Session 1
-<table>
-<tr><td width="15">  </td> <td>8:30am - 8:40pm:  Opening remarks    </td> </tr>
-<tr><td width="15">  </td> <td>8:40am - 9:00am:  Invited Paper 1:  <b>"Finding Large Poisson Polynomials Using Four-Level Variable Precision"</b>, David H. Bailey </td> </tr>
-<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 1: <b>"Guarding Numerics Amidst Rising Heterogeneity"</b>, Ganesh Gopalakrishnan, Ignacio Laguna, Ang Li, Pavel Panchekha, Cindy Rubio-González, Zachary Tatlock </td> </tr>
-<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 2: <b>"The MPI BUGS INITIATIVE: a Framework for MPI Verification Tools Evaluation"</b>, Mathieu Laurent, Emmanuelle Saillard, Martin Quinson </td> </tr>
-<tr><td width="15">  </td> <td>9:40am - 10:00am:  Invited Paper 2: <b>"OpenRace: An Open Source Framework for Statically Detecting Data Races"</b>, Bradley Swain, Jeff Huang, Bozhen Liu, Peiming Liu, Yanze Li,  Addison Crump, Rohan Khera  </td> </tr>
-</table>
-
-###### Break
-<table>
-<tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
-</table>
-
-###### Session 2
-<table>
-<tr><td width="15">  </td> <td>10:30am - 10:50am:  Paper 3: <b>"Performance of Dynamic Data Race Detection"</b>, Joachim Protze, Isabel Thärigen,  Jonas Wahle </td> </tr>
-<tr><td width="15">  </td> <td>10:50am - 11:10am:  Paper 4: <b>"High-Precision Evaluation of Both Static and Dynamic Tools using DataRaceBench"</b>, Pei-Hung Lin, Chunhua Liao </td> </tr>
-<tr><td width="15">  </td> <td>11:10am - 12:00pm:  Plenary Session: "Building a Bug Hunting Competition for HPC Correctness", Cindy Rubio-González (UC Davis),  Martin Quinson (ENS Rennes), Chunhua Liao (LLNL), Joachim Protze (RWTH Aachen University), Markus Schordan (LLNL) </td> </tr>
-</table>
-
-#### Building a Bug Hunting Competition for HPC Correctness
-Why the competition? The goal of the competition is to stimulate the development of correctness tools and the improvement of existing ones in the domain of HPC. As HPC applications become more complex and heterogeneous, we would like to discuss as a community: (1) potential benchmark suites for correctness tools, (2) metrics and criteria for comparing tools, (3) databases of bug reports and/or reproducible test cases, (4) defining the competition rules, and (5) important classes of bugs or correctness issues to address. The section 5.4 of the DOE Report of the HPC Correctness Summit highlights some of the benefits for such competitions: https://www.osti.gov/biblio/1470989.
+TBD
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
@@ -162,6 +146,7 @@ Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Ci
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
+- [Correctness 2020](https://correctness-workshop.github.io/2021/)
 - [Correctness 2020](https://correctness-workshop.github.io/2020/)
 - [Correctness 2019](https://correctness-workshop.github.io/2019/)
 - [Correctness 2018](https://correctness-workshop.github.io/2018/)
