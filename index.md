@@ -16,9 +16,11 @@ In cooperation with <br />
 <a href="http://www.computer.org">
 <img src="img/IEEE-Computer-Society-Logo.png" alt="IEEE CS">
 </a>
+<!--
 <a href="https://tc.computer.org/tchpc/">
   <img src="img/tchpc_logo_cmyk.png" alt="TCHPC">
 </a>
+-->
 </center>
 
 ----
