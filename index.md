@@ -119,11 +119,11 @@ All time zones are AOE.
 [Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
 [Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
 [Geoffrey C. Hulette]( http://www.sandia.gov/), Sandia National Laboratories, USA <br /> 
-[Vinu Joseph](#), NVIDIA Corporation, USA <br />
+[Vinu Joseph](https://www.vinujoseph.org/), NVIDIA Corporation, USA <br />
 [Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
 [Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
-[Shyamali Mukherjee](#), Sandia National Laboratories, USA <br />
-[Samuel	Pollard)(#), Sandia National Laboratories, USA <br />
+[Shyamali Mukherjee](https://dl.acm.org/profile/99659214722), Sandia National Laboratories, USA <br />
+[Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
 [Joachim Protze](https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/), RWTH Aachen University, Germany <br />
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
 [Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
