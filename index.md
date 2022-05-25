@@ -138,7 +138,7 @@ All time zones are AOE.
 ### <a class="anchor" name="venue">Venue</a>
 
 - Kay Bailey Hutchison Convention Center Dallas, Dallas, Texas, USA
-- Room: TBD
+- Room: D167
 
 ---
 ### <a class="anchor" name="program">Program</a>
