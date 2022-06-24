@@ -92,8 +92,8 @@ The proceedings will be archived in IEEE Xplore.
 
 * Paper submissions due: August 5, 2022
 * Notification of acceptance: September 9, 2022
-* E-copyright registration completed by authors: TBD
-* Camera-ready papers due: TBD
+* E-copyright registration completed by authors: September 23, 2022
+* Camera-ready papers due: September 30, 2022
 
 All time zones are AOE.
 
