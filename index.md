@@ -64,7 +64,7 @@ Topics of interest include, but are not limited to:
 ----
 ### <a class="anchor" name="submissions"> Submissions and Format </a>
 
-Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content, including everything. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
+Authors are invited to submit manuscripts in English structured as technical or experience papers at a length of at least **6 pages** but not exceeding **8 pages** of content, including everything except references. Submissions must use the [IEEE format](https://www.ieee.org/conferences/publishing/templates.html).
 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
@@ -90,7 +90,7 @@ The proceedings will be archived in IEEE Xplore.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: August 5, 2022
+* Paper submissions due: ~~August 5, 2022~~ **Extended:** August 12, 2022
 * Notification of acceptance: September 9, 2022
 * E-copyright registration completed by authors: September 23, 2022
 * Camera-ready papers due: September 30, 2022
