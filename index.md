@@ -150,14 +150,14 @@ All time zones are AOE.
 
 ###### Numerical Correctness
 <table>
-<tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Proposed Consistent Exception Handling for the BLAS and LAPACK"<b>, James Demmel, Jack Dongarra, Mark Gates, Greg Henry, Julien Langou, Xiaoye Li, Piotr Luszczek, Weslley Pereira, Jason Riedy, Cindy Rubio-González </td> </tr>
-<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Towards Verified Rounding-Error Analysis for Stationary Iterative Methods"<b>, Mohit Tekriwal, Ariel Kellison, Jean-Baptiste Jeannin, Geoffrey Hulett </td> </tr>
+<tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Proposed Consistent Exception Handling for the BLAS and LAPACK"</b>, James Demmel, Jack Dongarra, Mark Gates, Greg Henry, Julien Langou, Xiaoye Li, Piotr Luszczek, Weslley Pereira, Jason Riedy, Cindy Rubio-González </td> </tr>
+<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Towards Verified Rounding-Error Analysis for Stationary Iterative Methods"</b>, Mohit Tekriwal, Ariel Kellison, Jean-Baptiste Jeannin, Geoffrey Hulett </td> </tr>
 </table>
   
 ###### MPI Correctness
 <table>
-<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Static Local Concurrency Errors Detection in MPI-RMA Programs"<b>, Emmanuelle Saillard, Marc Sergent, Célia Tassadit Ait Kaci, Denis Barthou </td> </tr>
-<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI-RMA Programs with MUST"<b>, Simon Schwitanski, Joachim Protze, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
+<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Static Local Concurrency Errors Detection in MPI-RMA Programs"</b>, Emmanuelle Saillard, Marc Sergent, Célia Tassadit Ait Kaci, Denis Barthou </td> </tr>
+<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI-RMA Programs with MUST"</b>, Simon Schwitanski, Joachim Protze, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
 </table>
 
 ###### Break
@@ -167,14 +167,14 @@ All time zones are AOE.
 
 ###### Bug Competition
 <table>
-<tr><td width="15">  </td> <td>10:30am - 11:00am:  Paper 5: <b>"Bug Competition Announcement"<b>, Emmanuelle Saillard </td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 11:00am:  Paper 5: <b>"Bug Competition Announcement"</b>, Emmanuelle Saillard </td> </tr>
 </table>
   
 ###### Multithreading Correctness
 <table>
-<tr><td width="15">  </td> <td>11:00am - 11:20am:  Paper 5: <b>"MiniKokkos: A Calculus of Portable Parallelism"<b>, Feiyang Jin, John Jacobson II, Samuel D. Pollard, Vivek Sarkar </td> </tr>
-<tr><td width="15">  </td> <td>11:20am - 11:40am:  Paper 6: <b>"Early Experience with Transformer-Based Similarity Analysis for DataRaceBench"<b>, Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani </td> </tr>  
-<tr><td width="15">  </td> <td>11:40am - 12:00pm:  Paper 7: <b>"Leveraging the Dynamic Program Structure Tree to Detect Data Races in OpenMP Programs"<b>, Lechen Yu, Feiyang Jin, Joachim Protze, Vivek Sarkar </td> </tr>
+<tr><td width="15">  </td> <td>11:00am - 11:20am:  Paper 5: <b>"MiniKokkos: A Calculus of Portable Parallelism"</b>, Feiyang Jin, John Jacobson II, Samuel D. Pollard, Vivek Sarkar </td> </tr>
+<tr><td width="15">  </td> <td>11:20am - 11:40am:  Paper 6: <b>"Early Experience with Transformer-Based Similarity Analysis for DataRaceBench"</b>, Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani </td> </tr>  
+<tr><td width="15">  </td> <td>11:40am - 12:00pm:  Paper 7: <b>"Leveraging the Dynamic Program Structure Tree to Detect Data Races in OpenMP Programs"</b>, Lechen Yu, Feiyang Jin, Joachim Protze, Vivek Sarkar </td> </tr>
 </table>
 
 ---
