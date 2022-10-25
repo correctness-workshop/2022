@@ -170,7 +170,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Bug Competition Announcement"</b>, Emmanuelle Saillard </td> </tr>
 </table>
   
-##### Multithreaded Correctness (Chair: TBD)
+##### Multithreaded Correctness (Chair: Emmanuelle Saillard)
 <table>
 <tr><td width="15">  </td> <td>11:00am - 11:20am:  Paper 5: <b>"MiniKokkos: A Calculus of Portable Parallelism"</b>, Feiyang Jin, John Jacobson II, Samuel D. Pollard, Vivek Sarkar </td> </tr>
 <tr><td width="15">  </td> <td>11:20am - 11:40am:  Paper 6: <b>"Early Experience with Transformer-Based Similarity Analysis for DataRaceBench"</b>, Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani </td> </tr>  
