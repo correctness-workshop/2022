@@ -154,7 +154,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Towards Verified Rounding-Error Analysis for Stationary Iterative Methods"</b>, Ariel Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, Geoffrey Hulette </td> </tr>
 </table>
   
-##### MPI Correctness (Chair: TBD)
+##### MPI Correctness (Chair: Mike Lam)
 <table>
 <tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Static Local Concurrency Errors Detection in MPI-RMA Programs"</b>, Emmanuelle Saillard, Marc Sergent, Célia Tassadit Ait Kaci, Denis Barthou </td> </tr>
 <tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI-RMA Programs with MUST"</b>, Simon Schwitanski, Joachim Protze, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
