@@ -145,7 +145,7 @@ All time zones are AOE.
 <br />
 
 <table>
-<tr><td width="15">  </td> <td>8:30am - 8:40pm:  Opening remarks    </td> </tr>
+<tr><td width="15">  </td> <td>8:30am - 8:40am:  Opening remarks    </td> </tr>
 </table>
 
 ##### Numerical Correctness (Chair: Mike Lam)
@@ -157,7 +157,7 @@ All time zones are AOE.
 ##### MPI Correctness (Chair: Mike Lam)
 <table>
 <tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Static Local Concurrency Errors Detection in MPI-RMA Programs"</b>, Emmanuelle Saillard, Marc Sergent, Célia Tassadit Ait Kaci, Denis Barthou </td> </tr>
-<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI-RMA Programs with MUST"</b>, Simon Schwitanski, Joachim Protze, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
+<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI RMA Programs with MUST"</b>, Simon Schwitanski, Joachim Jenke, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
 </table>
 
 ##### Break
